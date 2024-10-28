@@ -11,7 +11,7 @@
 
 _Collaborate and work together on GitHub._
 
-_Or don't, I'm not ur mom._
+_Or don't, I'm not your mom._
 
 </header>
 
