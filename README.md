@@ -10,7 +10,8 @@
 # Review pull requests
 
 _Collaborate and work together on GitHub._
-_Or don't, I'm not your dad._
+
+_Or don't, I'm not your mom._
 
 </header>
 
